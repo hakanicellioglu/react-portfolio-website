@@ -15,4 +15,4 @@ Bu proje, React kullanarak geliştirilmiş kişisel bir portföy web sitesidir. 
 1. **Depoyu Klonlayın**
 
    ```bash
-   git clone https://github.com/kullanici-adiniz/portfoy-web-sitesi.git
+   git clone https://github.com/hakanicellioglu/react-portfolio-website.git
