@@ -24,6 +24,6 @@ Bu proje, React kullanarak geliştirilmiş kişisel bir portföy web sitesidir. 
    npm install
 
 3. **Çalıştırın**
-```bash
-npm start
+   ```bash
+   npm start
 
