@@ -16,3 +16,13 @@ Bu proje, React kullanarak geliştirilmiş kişisel bir portföy web sitesidir. 
 
    ```bash
    git clone https://github.com/hakanicellioglu/react-portfolio-website.git
+
+
+2. **Bağımlılıkları yükleyin**
+   ```bash
+   rm -rf node_modules package-lock.json
+   npm install
+
+3. **Çalıştırın**
+npm start
+
