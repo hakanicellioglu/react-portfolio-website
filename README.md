@@ -20,7 +20,6 @@ Bu proje, React kullanarak geliştirilmiş kişisel bir portföy web sitesidir. 
 
 2. **Bağımlılıkları yükleyin**
    ```bash
-   rm -rf node_modules package-lock.json
    npm install
 
 3. **Çalıştırın**
